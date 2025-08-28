@@ -1,5 +1,7 @@
 # Python_Calculator
 
+## Description:
+
 A simple console-based calculator program built with Python.  
 This calculator allows the user to perform basic arithmetic operations and handles invalid input gracefully.
 
