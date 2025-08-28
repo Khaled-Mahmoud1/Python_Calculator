@@ -1,15 +1,11 @@
 # Simple Calculator Program 
-# ----------------------------
-# This program is a simple calculator that allows the user to perform 
-# basic arithmetic operations (+, -, *, /, %). 
-
+# ---------------------------
 # Features:
 # - Handles invalid numeric input using try/except (ValueError).
 # - Validates operators to accept only (+, -, *, /, %).
 # - Prevents division by zero (ZeroDivisionError).
 # - Uses Python's 'match-case' structure for cleaner operation handling.
 # - Allows the user to repeat operations until they choose to exit.
-
 
 status = True
 while status:
